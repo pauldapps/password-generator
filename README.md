@@ -1,6 +1,6 @@
 # Password-Generator
 ## Purpose
-Needed a way to create passphrases programatically for integration into employee onboarding automation.
+Needed a way to create passphrases programatically.
 
 ## Examples
 
